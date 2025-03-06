@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="hero-text">
         <span>
           <div className="hero-line" />
-          <h5>SB Fitness</h5>
+          <h5>MoveMax</h5>
         </span>
         <h2>Unleash the Inner <b>Fitness</b> Wizard: Morph Your Bod, <b>Upgrade</b> Your Life Quest!</h2>
         <a href="#search"><button>View more</button></a>

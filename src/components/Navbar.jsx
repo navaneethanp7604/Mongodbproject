@@ -25,7 +25,7 @@ const Navbar = () => {
   };
   return (
     <div className={scrollPosition > 100  || window.location.href !== "http://localhost:3000/" ? 'navbar nav-scrolled':`navbar`}>
-        <h3  onClick={()=> navigate('/')}  >SB Fitzz</h3>
+        <h3  onClick={()=> navigate('/')}  >Move Max</h3>
        
           {url ===  "http://localhost:3000/" || url ===  "http://localhost:3000/#about"  || url ===  "http://localhost:3000/#search"  ?
             <ul>
